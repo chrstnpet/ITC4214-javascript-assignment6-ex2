@@ -1,5 +1,5 @@
 # ITC4214-javascript-assignment6-ex2
-Exercise 1 out of 3 for my Internet Programming Class:
+Exercise 2 out of 3 for my Internet Programming Class:
 
 
 Build an HTML page which displays in a table a palette of six different colors for the user to choose from.
